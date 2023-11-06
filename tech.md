@@ -14,6 +14,8 @@
 
 [What Quantum Computers Mean for Bitcoin's Future](https://bitcoinreserve.com/blog/debunked-quantum-computing-can-kill-bitcoin) (Arman The Parman)
 
+[Can You Guess A Bitcoin Private Key?](https://blockdyor.com/guess-bitcoin-private-key/) (blockdyor)
+
 ## Other
 ["Block rewards will stop in the future and Bitcoin will lose all security"](https://safehodl.github.io/failure/#block-rewards-will-stop) (safehodl)
 
